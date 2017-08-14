@@ -1,6 +1,6 @@
 # 正则表达式语法
 
-1. [元字符](metacharacters.md)
+1. [元字符](01metacharacters.md)
 2. [字符转义](README.md)
 3. [重复](README.md)
 4. [字符类](README.md)
