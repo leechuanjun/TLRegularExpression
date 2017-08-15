@@ -12,5 +12,10 @@
 | IgnorePatternWhitespace\(忽略空白\) | 忽略表达式中的非转义空白并启用由\#标记的注释。 |
 | ExplicitCapture\(显式捕获\) | 仅捕获已被显式命名的组。 |
 
+* 一个经常被问到的问题是：是不是只能同时使用多行模式和单行模式中的一种？答案是：不是。这两个选项之间没有任何关系，除了它们的名字比较相似（以至于让人感到疑惑）以外。
+
+* 注意：
+> 在C#中，你可以使用Regex(String, RegexOptions)构造函数来设置正则表达式的处理选项。如：Regex regex = new Regex(@"\ba\w{6}\b", RegexOptions.IgnoreCase);
+
 
 
