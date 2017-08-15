@@ -4,7 +4,7 @@
 1. [本文目标](README.md)
 2. [如何使用本教程](README.md)
 3. [正则表达式到底是什么东西?](README.md)
-4. [入门](README.md)
+4. [入门](enterdoor.md)
 5. [测试正则表达式](testRegularExp.md)
 6. [元字符](README.md)
 7. [字符转义](README.md)
