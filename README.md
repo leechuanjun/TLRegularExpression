@@ -20,8 +20,8 @@
 17. [贪婪与懒惰](/regularGrammar/12greedandlaziness.md)
 18. [处理选项](/regularGrammar/13treatmentoptions.md)
 19. [平衡组/递归匹配](/regularGrammar/14balancegroup.md)
-20. [还有些什么东西没提到](README.md)
-21. [网上的资源及本文参考文献](README.md)
+20. [还有些什么东西没提到](NoMention.md)
+21. [网上的资源及本文参考文献](reference.md)
 
 ## 本文目标
 > 30分钟内让你明白正则表达式是什么，并对它有一些基本的了解，让你可以在自己的程序或网页里使用它。
